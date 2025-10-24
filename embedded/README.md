@@ -12,11 +12,11 @@ The readings are shown on an **OLED display** and transmitted to a remote databa
 
 The ESP32 communicates with the **SCD41 sensor** and **OLED display** using the **I2C protocol**.  
 
+![Circuit Diagram](diagrams/circuit.png)
 
-Check the `diagrams/` folder for:
-- Circuit diagram  
+For more, check the `diagrams/` folder.
 
 
 ## Driver Usage 
 
-Copy the files form the `drivers/` folder and upload them in to the device with the `main.py`
+Copy the files from the `drivers/` folder and upload them to the device with the `main.py` file.
